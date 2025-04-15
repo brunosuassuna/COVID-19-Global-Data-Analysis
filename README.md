@@ -65,11 +65,11 @@ covid19-analysis/
 - Global Cases
 - Evolução global de casos e óbitos - Fonte: Our World in Data
 
-## 📄 Licença
-- Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
-
-## ✉ Contato
-Bruno Suassuna - bruno.suassuna@email.com
-
-
 **Nota:** Os dados são atualizados até Abril/2025 conforme disponibilidade na fonte oficial. Para análises com dados mais recentes, atualize o arquivo owid-covid-data.csv.
+
+## 📜 Licença
+- **Licença:** [MIT](https://opensource.org/license/MIT)
+
+## ✉️ Contato
+- **Email:** brunosuassuna.dev@gmail.com
+- **LinkedIn:** www.linkedin.com/in/bruno-suassuna-698aa7235
