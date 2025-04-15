@@ -59,7 +59,7 @@ covid19-analysis/
 
 ## 🚀 Como Executar
 ### Clone o repositório:
-- git clone https://github.com/seu-usuario/covid19-analysis.git
+- git clone https://github.com/brunosuassuna/COVID-19-Global-Data-Analysis
 
 ## 📊 Resultados Destacados
 - Global Cases
