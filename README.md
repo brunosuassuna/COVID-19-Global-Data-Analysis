@@ -25,18 +25,19 @@ Este projeto realiza uma análise abrangente dos dados epidemiológicos da COVID
 - Seaborn - Visualizações estatísticas
 
 ## 🗂 Estrutura do Projeto
+```bash
+├── 📂 data/                          
+│   └── 📂 raw/                       # Dados brutos da OWID (Our World in Data)
+├── 📂 notebooks/                    # Notebooks de análise
+│   ├── 📄 01_Data_Loading.ipynb     # Carregamento e preparação dos dados
+│   ├── 📄 02_EDA.ipynb              # Análise exploratória (EDA)
+│   └── 📄 03_Global_Analysis.ipynb  # Análise principal dos dados globais
+├── 📂 reports/                      # Relatórios gerados
+│   └── 📄 global_report.pdf         # Relatório consolidado da análise
+├── 📄 .gitignore                    # Arquivos e pastas ignorados pelo Git
+└── 📄 README.md                     # Documentação principal do projeto
+```
 
-covid19-analysis/
-- ├── data/
-- │   └── raw/            --      **Dados brutos da OWID**
-- ├── notebooks/
-- │   ├── 01_Data_Loading.ipynb
-- │   ├── 02_EDA.ipynb      --    **Análise exploratória**
-- │   └── 03_Global_Analysis.ipynb   **Análise principal**
-- ├── reports/
-- │   └── global_report.pdf  --   **Relatório consolidado**
-- ├── .gitignore
-- └── README.md
 
 ## 🔍 Principais Análises
 ### Evolução Temporal Global
@@ -59,7 +60,9 @@ covid19-analysis/
 
 ## 🚀 Como Executar
 ### Clone o repositório:
-- git clone https://github.com/brunosuassuna/COVID-19-Global-Data-Analysis
+```bash
+git clone https://github.com/brunosuassuna/COVID-19-Global-Data-Analysis
+```
 
 ## 📊 Resultados Destacados
 - Global Cases
